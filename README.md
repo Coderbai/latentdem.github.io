@@ -4,7 +4,7 @@ This is the repository that contains the page for the [LatentDEM: Blind Inversio
 
 If you find Nerfies useful for your work please cite:
 ```
-@article{weimin2024latentdem
+@article{weimin2024latentdem,
   author    = {Weimin, Bai and Siyi, Chen and Wenzheng, Chen and He, Sun},
   title     = {Blind Inversion using Latent Diffusion Priors},
   journal   = {arXiv},
